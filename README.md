@@ -1,6 +1,7 @@
 
 
 **Password Decoder**
+
 **-by ayaan**
 
 This C program can help you recover forgotten passwords if you know the ASCII values of the characters in reverse order.
@@ -18,6 +19,7 @@ This decoder  decode a password based on a given string of digits. The digits re
 **Example:**
 
 Input: `100,108,114,111,119,32,111,108,108,101,104`
+
 Output: `hello world`
 
 **Note:**
