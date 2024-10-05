@@ -1,7 +1,7 @@
 
 
 **Password Decoder**
-**              -by ayaan**
+**-by ayaan**
 
 This C program can help you recover forgotten passwords if you know the ASCII values of the characters in reverse order.
 
