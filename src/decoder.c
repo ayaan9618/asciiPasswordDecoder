@@ -20,7 +20,8 @@ int main(void) {
  // conerting ascii into char and revering it 
  for (int j = 0; j < 8; j++)
  {
-    pass[k]=(char)respass[j];
+    //pass[k]=(char)respass[j];
+    pass[k]=respass[j];
     k--;
  }
  
