@@ -1,5 +1,5 @@
 //this is password decoder
-//reverse string password into actual password
+//reverse string password asci into actual password
 
 #include <stdio.h>
  
